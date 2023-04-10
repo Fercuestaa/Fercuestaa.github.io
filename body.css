@@ -1,0 +1,17 @@
+ body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient( to right, rgba(162, 1, 255, 0), rgb(5, 5, 5),rgba(255, 252, 252, 0));
+}
+
+@font-face {
+    font-family:Tipografia;
+    src: url(Syncopate-Regular.ttf) format('truetype');
+} 
+
+body{
+    font-family: Tipografia;
+}
